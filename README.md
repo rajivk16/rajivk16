@@ -48,8 +48,7 @@
 
 ### 🌱 **Current Endeavors:**
 - Exploring the intricacies of AI and its integration in web development.
-- Collaborating on open-source projects that focus on enhancing user experience.
-- Mentoring budding developers and sharing insights through tech blogs.
+- Building a fashion brand, "Vantablacc"
 
 ---
 
