@@ -1,64 +1,37 @@
-# Hello, World! 🌍 I'm Rajiv Kulkarni 💻🚀
+# Rajiv Kulkarni
 
-## Problem Solver | Frontend Enthusiast | Digital Craftsman
+### AI-Native Software Engineer | Backend and Distributed Systems
 
----
+I build healthcare interoperability infrastructure: the backend and distributed systems that move patient, provider, and scheduling data between hundreds of external platforms.
 
-👋 Welcome to my GitHub! I'm a passionate software engineer with a flair for creating user-centric designs and writing efficient, robust code. With a keen eye for design and a love for frontend development, I thrive on crafting digital experiences that resonate.
+Five years at Zocdoc across integration engineering and platform work. I design event-driven services and serverless pipelines on AWS, own the reliability work when things break in production, and build the internal tooling that lets support teams fix issues without waiting on an engineer.
 
----
-
-### 🌟 **Highlights:**
-- **Experience:** Worked with innovative teams at **Zocdoc** and founded **Vantablacc**.
-- **Tech Stack:** Proficient in `React.js`, `Next.js`, `TypeScript`, `UI/UX`, `pgSQL`, and more.
-- **Passion Projects:** Launched a YouTube channel and an e-commerce brand.
-- **Continuous Learner:** Always exploring, always growing.
+Most recently I have spent over a year working **agent-native**: directing coding agents through plan, implement, and verify loops while keeping architecture, review, and the final call with me.
 
 ---
 
-### 🛠️ **Technologies & Tools:**
+## Focus
 
-#### **Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+- **Distributed systems**: event-driven architecture, serverless ingestion, adaptive polling, reliable message flows
+- **Healthcare interoperability**: FHIR, HL7, EMR integrations, patient and scheduling data
+- **Platform and tooling**: internal operations platforms, dashboards, automated reconciliation
+- **AI-native engineering**: agent harnesses, subagents, git worktrees, fresh-context review
 
-#### **Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
+## Tech
 
-#### **Databases:**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+`TypeScript` `C#` `Python` `Scala` `SQL` `AWS` `Lambda` `DynamoDB` `Kinesis` `SQS` `.NET` `Node.js` `GraphQL` `REST` `React` `Next.js` `PostgreSQL` `FHIR` `HL7`
 
-#### **DevOps & Cloud:**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-FF6F42?logo=gitlab&logoColor=white)
+## Selected work
 
-#### **Tools & Frameworks:**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Retool](https://img.shields.io/badge/-Retool-FF4954?logo=retool&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-008080?logo=asana&logoColor=white)
+- Serverless ingestion platform that synchronizes data across hundreds of third-party systems
+- Availability expansion that processed 222K+ appointment slots at 91%+ extraction success
+- Internal operations platform that grew into a 26-tool suite used daily by support and account management
+- 83+ integrations maintained across distributed microservices
 
+## Links
 
----
+- Portfolio: [rajivkulkarni.vercel.app](https://rajivkulkarni.vercel.app)
+- LinkedIn: [linkedin.com/in/rajivk16](https://linkedin.com/in/rajivk16)
+- Email: [rajiv.kulkarni.work@gmail.com](mailto:rajiv.kulkarni.work@gmail.com)
 
-### 🌱 **Current Endeavors:**
-- Exploring the intricacies of AI and its integration in web development.
-- Building a fashion brand, "Vantablacc"
-
----
-
-### 📫 **Let's Connect:**
-- 🌐 [Portfolio](https://rajivkulkarni-portfolio.vercel.app/)
-- 📝 [Blog](https://rajivkulkarni-blog.vercel.app/)
-- 📧 Email: rajiv1628@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rajivk16/)
-
----
-
-💡 I believe in the power of code to transform ideas into reality. If you share the same passion or have a project in mind, let's collaborate and build something amazing together!
-
+<sub>Pune, India (Remote)</sub>
